@@ -1,0 +1,2 @@
+Text:  YES IT'S HARD
+Conf:  6

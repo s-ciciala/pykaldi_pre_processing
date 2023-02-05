@@ -1,0 +1,31 @@
+--2022-03-10 15:01:47--  http://www.speech.cs.cmu.edu/databases/an4//an4_sphere.tar.gz
+Resolving www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)... 128.2.204.214
+Connecting to www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)|128.2.204.214|:80... failed: Connection timed out.
+Retrying.
+
+--2022-03-10 15:03:59--  (try: 2)  http://www.speech.cs.cmu.edu/databases/an4//an4_sphere.tar.gz
+Connecting to www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)|128.2.204.214|:80... failed: Connection timed out.
+Retrying.
+
+--2022-03-10 15:06:11--  (try: 3)  http://www.speech.cs.cmu.edu/databases/an4//an4_sphere.tar.gz
+Connecting to www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)|128.2.204.214|:80... failed: Connection timed out.
+Retrying.
+
+--2022-03-10 15:08:26--  (try: 4)  http://www.speech.cs.cmu.edu/databases/an4//an4_sphere.tar.gz
+Connecting to www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)|128.2.204.214|:80... failed: Connection timed out.
+Retrying.
+
+--2022-03-10 15:10:40--  (try: 5)  http://www.speech.cs.cmu.edu/databases/an4//an4_sphere.tar.gz
+Connecting to www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)|128.2.204.214|:80... failed: Connection timed out.
+Retrying.
+
+--2022-03-10 15:12:56--  (try: 6)  http://www.speech.cs.cmu.edu/databases/an4//an4_sphere.tar.gz
+Connecting to www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)|128.2.204.214|:80... failed: Connection timed out.
+Retrying.
+
+--2022-03-10 15:15:12--  (try: 7)  http://www.speech.cs.cmu.edu/databases/an4//an4_sphere.tar.gz
+Connecting to www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)|128.2.204.214|:80... failed: Connection timed out.
+Retrying.
+
+--2022-03-10 15:17:28--  (try: 8)  http://www.speech.cs.cmu.edu/databases/an4//an4_sphere.tar.gz
+Connecting to www.speech.cs.cmu.edu (www.speech.cs.cmu.edu)|128.2.204.214|:80... 

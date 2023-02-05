@@ -1,0 +1,11 @@
+cut -d ' ' -f 2- lexicon.txt |  \sed 's/ /\n/g' | \sort -u > nonsilence_phones.txt
+
+
+1
+
+Path to executables is configured with KALDI_ROOT variable in Kaldi recipes in path.sh script inside the recipe, for example, inside tidigits it is kaldi/egs/tidigits/s5/path.sh. The path specified is relative, so you must run commands from kaldi/egs/tidigits/s5 folder and not from other folder. There could be following problems
+
+1.You didn't compile Kaldi and binary does not exist in kaldi/src/featbin
+2.You moved the training folder from kaldi and you didn't update the KALDI_ROOT variable in path.sh
+3.You run the command run.sh from some other folder, not from kaldi/egs/tidigits/s5 folder.
+Usually you simply need to check contents of path.sh and specify the proper kaldi root there.
